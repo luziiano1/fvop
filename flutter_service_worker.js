@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "67445c1e62274d440242c3b950681fc6",
-"assets/FontManifest.json": "40468c7c60c4889cff63fc93cc537fad",
+"assets/FontManifest.json": "242ddb5049adb0a266ee25b0684ff28f",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/lib/assets/columbiaserialmediumregular.ttf": "5259ed8470fbbf98948cb80bda291c2d",
+"assets/lib/assets/Gelio%20Fasolada.ttf": "035cf217950aaa7f744c864e05a2207a",
 "assets/lib/assets/images/ORDEM%2520LOGO.png": "051dd2ad79f774f3270338bd41a806e2",
 "assets/lib/assets/images/public_assets_dice%2520(1).gif": "e0b9cd50cb5f07591973d1853c6d7602",
 "assets/NOTICES": "4de518208a154809b62df16224330f48",
@@ -16,7 +17,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "8cfbe7b7e39c5fb756e35f11b909df7c",
 "/": "8cfbe7b7e39c5fb756e35f11b909df7c",
-"main.dart.js": "6b55805964aef1404f6bcce149e332fd",
+"main.dart.js": "91733171a12225e7e88dfd6aaadf7b30",
 "manifest.json": "e35ccb9235249a550e6617e44bc22e8a",
 "version.json": "554b82fd9383d1333affa4a447c17645"
 };

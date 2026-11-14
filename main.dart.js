@@ -69137,7 +69137,7 @@ A.aQ(p,$.bg())
 q=A.ca(new A.aY(p))
 return A.a7S(new A.aeO(this,s),new A.kw(r,A.ce(q,q.gbz().bJ(0,"masterSheet"))).gBU(),t._)}}
 A.aeO.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k=null,j="columbiaserialmediumregular",i=b.b,h=$.ad,g=(h==null?$.ad=$.be():h).bh(0,"[DEFAULT]")
+$2(a,b){var s,r,q,p,o,n,m,l,k=null,j="Gelio Fasolada",i=b.b,h=$.ad,g=(h==null?$.ad=$.be():h).bh(0,"[DEFAULT]")
 A.aQ(g,$.bg())
 h=A.ca(new A.aY(g))
 h=A.ce(h,h.gbz().bJ(0,"userSheet"))
@@ -69161,7 +69161,7 @@ return A.R(null,r)}})
 return A.S($async$$0,r)},
 $S:4}
 A.aeL.prototype={
-$1(a){var s=null,r="columbiaserialmediumregular",q=t.t,p=A.cq(A.c([A.bq(A.c([new A.dy(1,B.ay,A.aw("Adicione um jogador (N\xe3o deixe espa\xe7os)",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,s,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.dz(!1,s,!0,A.dL(B.bI,B.e,28),s,!0,s,s,s,s,s,s,s,s,s,new A.aeI(a),s,s,s)],q),B.p,B.au,B.r),A.nx(B.e,1)],q),B.p,B.u,B.r),o=this.a,n=o.e,m=A.X(s,s,B.e,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),l=A.X(s,s,A.U(255,255,255,255),s,s,s,s,s,r,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s)
+$1(a){var s=null,r="Gelio Fasolada",q=t.t,p=A.cq(A.c([A.bq(A.c([new A.dy(1,B.ay,A.aw("Adicione um jogador (N\xe3o deixe espa\xe7os)",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,s,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.dz(!1,s,!0,A.dL(B.bI,B.e,28),s,!0,s,s,s,s,s,s,s,s,s,new A.aeI(a),s,s,s)],q),B.p,B.au,B.r),A.nx(B.e,1)],q),B.p,B.u,B.r),o=this.a,n=o.e,m=A.X(s,s,B.e,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),l=A.X(s,s,A.U(255,255,255,255),s,s,s,s,s,r,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s)
 m=A.cq(A.c([A.f1(s,B.e,A.dM(s,s,s,s,s,s,s,s,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),s,s,s,s,s,s,s,B.bk,s,s,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),s,s,s,s,s,A.X(s,s,B.ah,s,s,s,s,s,r,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),"UID do Usu\xe1rio",s,s,s,s,!1,s,s,l,"Uid",s,s,s,s,s,s,s,s,s,s,s,s,s),n,s,B.cf,!1,new A.aeJ(o),m,s),A.b0(s,20,s)],q),B.p,B.u,B.bp)
 return A.n5(A.c([A.h5(A.aw("Adicionar",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,25,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.l,new A.aeK(o,this.b,this.c,a),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l)],q),B.l,m,new A.bh(B.O,new A.a3(B.e,1,B.m)),p)},
 $S:39}
@@ -69230,7 +69230,7 @@ o=A.a7S(new A.a9R(m,s,l),new A.kw(r,A.ce(o,o.gbz().bJ(0,"masterSheet"))).gBU(),t
 r=o
 return r}}
 A.a9R.prototype={
-$2(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="columbiaserialmediumregular"
+$2(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=null,a1="Gelio Fasolada"
 if(a3.b!=null){s=this.a
 r=s.d.length
 q=J.HB(r,t.ib)
@@ -69245,7 +69245,7 @@ g=A.aw(A.d(g)+"/"+A.d(f),a0,a0,a0,new A.t(!0,d,a0,a1,a0,a0,55,B.H,a0,a0,a0,a0,a0
 f=new Float64Array(16)
 e=new A.aP(f)
 f[15]=1
-e.wp(6.2)
+e.wp(0)/* inclinacao original: 6.2 */
 f=n.h(o,s.d[k]).e
 d=n.h(o,s.d[k]).f
 c=A.c([new A.cu(A.U(255,0,115,255),B.k,10),new A.cu(A.U(255,220,36,36),B.k,10)],m)
@@ -69254,16 +69254,18 @@ f=A.aw(A.d(f)+"/"+A.d(d),a0,a0,a0,new A.t(!0,b,a0,a1,a0,a0,55,B.H,a0,a0,a0,a0,a0
 d=new Float64Array(16)
 c=new A.aP(d)
 d[15]=1
-c.wp(6.2)
+c.wp(0)/* inclinacao original: 6.2 */
 d=n.h(o,s.d[k]).y
-b=A.c([new A.cu(A.U(255,208,0,255),B.k,10),new A.cu(A.U(255,208,0,255),B.k,10)],m)
+b=A.c([new A.cu(A.U(255,0,255,0),B.k,10),new A.cu(A.U(255,0,255,0),B.k,10)],m)/* PE: cor original roxa A.U(255,208,0,255) */
 a=A.U(138,255,255,255)
 d=A.aX(a0,A.aw(A.d(d),a0,a0,a0,new A.t(!0,a,a0,a1,a0,a0,55,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,b,a0,a0),B.cV,B.w),B.n,a0,a0,a0,a0,a0,a0,new A.aq(20,0,0,0),a0,a0,a0,a0)
 b=new Float64Array(16)
 a=new A.aP(b)
 b[15]=1
-a.wp(6.2)
-q[k]=A.cq(A.c([A.dz(!1,a0,!0,new A.tg(B.b3,B.b2,B.ad,A.c([A.aX(a0,A.bq(A.c([new A.q0(new A.ya(i,h,a0),new A.aU(1e6),a0),new A.mu(a0,20,a0,a0),A.aX(a0,new A.tg(B.b3,B.b2,B.ad,A.c([new A.iA(e,B.J,!0,a0,new A.cP(B.z3,g,a0),a0),new A.iA(c,B.J,!0,a0,new A.cP(new A.aq(20,50,0,0),f,a0),a0),new A.iA(a,B.J,!0,a0,new A.cP(B.yV,d,a0),a0)],p),a0),B.n,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),B.p,B.u,B.r),B.n,j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),a0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a9Q(s,k,l),a0,a0,a0)],p),B.p,B.u,B.r)}return A.aoW(q,3,new A.aq(10,10,10,10),!1)}else return new A.oc(a0)},
+a.wp(0)/* inclinacao original: 6.2 */
+q[k]=A.cq(A.c([A.dz(!1,a0,!0,new A.tg(B.b3,B.b2,B.ad,A.c([A.aX(a0,A.bq(A.c([new A.q0(new A.ya(i,h,a0),new A.aU(1e6),a0),new A.mu(a0,20,a0,a0),A.aX(a0,new A.tg(B.b3,B.b2,B.ad,A.c([new A.iA(e,B.J,!0,a0,new A.cP(B.z3,g,a0),a0),/* SANIDADE DESATIVADA - para reativar, descomente a linha abaixo
+new A.iA(c,B.J,!0,a0,new A.cP(new A.aq(20,50,0,0),f,a0),a0),
+*/new A.iA(a,B.J,!0,a0,new A.cP(B.yV,d,a0),a0)],p),a0),B.n,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),B.p,B.u,B.r),B.n,j,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],p),a0),a0,!0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a9Q(s,k,l),a0,a0,a0)],p),B.p,B.u,B.r)}return A.aoW(q,3,new A.aq(10,10,10,10),!1)}else return new A.oc(a0)},
 $S:438}
 A.a9Q.prototype={
 $0(){var s=0,r=A.T(t.P),q=this,p,o,n,m,l
@@ -69307,7 +69309,7 @@ A.aQ(r,$.bg())
 return new A.PN(new A.jY(A.wL(new A.aY(r))),new A.bu(null,t.Xu),B.o)},
 CK(){return this.c.$0()}}
 A.PN.prototype={
-G(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="columbiaserialmediumregular"
+G(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="Gelio Fasolada"
 b.O(t.w).toString
 s=A.h0(k,B.aE,new A.dO("https://pbs.twimg.com/media/E4B8g1NVgAQVOQ6?format=jpg&name=4096x4096",1,k),B.ao,1)
 r=A.U(176,0,0,0)
@@ -69369,7 +69371,7 @@ A.aQ(r,$.bg())
 return new A.Qw(new A.jY(A.wL(new A.aY(r))),new A.bu(null,t.Xu),B.o)},
 CK(){return this.c.$0()}}
 A.Qw.prototype={
-G(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="columbiaserialmediumregular"
+G(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="Gelio Fasolada"
 b.O(t.w).toString
 s=A.h0(j,B.aE,new A.dO("https://pbs.twimg.com/media/E3JfBXkXMAkL5KX?format=jpg&name=4096x4096",1,j),B.ao,1)
 r=A.U(176,0,0,0)
@@ -69484,7 +69486,7 @@ p=r.ed(0,s).rq()
 return A.a7S(new A.adr(o.a,o.b,n,o.d,o.e,o.f,o.r),new A.cf(new A.cX(s,r).ga3W(),p,p.$ti.j("cf<b7.T,dE*>")),t.F6)}else return new A.oc(null)},
 $S:442}
 A.adr.prototype={
-$2(c8,c9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4=this,c5=null,c6="columbiaserialmediumregular",c7=c9.b
+$2(c8,c9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4=this,c5=null,c6="Gelio Fasolada",c7=c9.b
 if(c7!=null){s=c4.a
 s.ch=c7.b
 r=s.ay=c7.c
@@ -69620,7 +69622,7 @@ $0(){var s=this
 A.pV(new A.ad0(s.a,s.c,s.d),s.b,t.z)},
 $S:2}
 A.ad0.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k=null,j="columbiaserialmediumregular",i=t.t,h=A.cq(A.c([A.bq(A.c([new A.dy(1,B.ay,A.aw("Adicione a URL dos Portraits Interativos. ex: 800 x 800, 1000 x 1000",k,k,k,A.X(k,k,B.e,k,k,k,k,k,j,k,k,k,k,B.aR,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),A.dz(!1,k,!0,A.dL(B.bI,B.e,28),k,!0,k,k,k,k,k,k,k,k,k,new A.acE(a),k,k,k)],i),B.p,B.au,B.r),A.nx(B.e,1)],i),B.p,B.u,B.r),g=this.a,f=g.b[0],e=A.X(k,k,B.e,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),d=A.X(k,k,A.U(255,255,255,255),k,k,k,k,k,j,k,k,20,k,k,k,k,!0,k,k,k,k,k,k,k,k)
+$1(a){var s,r,q,p,o,n,m,l,k=null,j="Gelio Fasolada",i=t.t,h=A.cq(A.c([A.bq(A.c([new A.dy(1,B.ay,A.aw("Adicione a URL dos Portraits Interativos. ex: 800 x 800, 1000 x 1000",k,k,k,A.X(k,k,B.e,k,k,k,k,k,j,k,k,k,k,B.aR,k,k,!0,k,k,k,k,k,k,k,k),k,k),k),A.dz(!1,k,!0,A.dL(B.bI,B.e,28),k,!0,k,k,k,k,k,k,k,k,k,new A.acE(a),k,k,k)],i),B.p,B.au,B.r),A.nx(B.e,1)],i),B.p,B.u,B.r),g=this.a,f=g.b[0],e=A.X(k,k,B.e,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),d=A.X(k,k,A.U(255,255,255,255),k,k,k,k,k,j,k,k,20,k,k,k,k,!0,k,k,k,k,k,k,k,k)
 e=A.f1(k,B.e,A.dM(k,k,k,k,k,k,k,k,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),k,k,k,k,k,k,k,B.bk,k,k,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),k,k,k,k,k,A.X(k,k,B.ah,k,k,k,k,k,j,k,k,20,k,k,k,k,!0,k,k,k,k,k,k,k,k),"Portrait NORMAL",k,k,k,k,!1,k,k,d,"Normal",k,k,k,k,k,k,k,k,k,k,k,k,k),f,k,B.cf,!1,new A.acF(g),e,k)
 f=A.b0(k,20,k)
 d=g.b[1]
@@ -69736,7 +69738,7 @@ r.w=r.r=r.z=r.Q=r.y=r.x=0
 A.pV(new A.ad_(r,s.c,s.d),s.b,t.z)},
 $S:2}
 A.ad_.prototype={
-$1(a){var s,r=null,q="columbiaserialmediumregular",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PV",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acy(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
+$1(a){var s,r=null,q="Gelio Fasolada",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PV",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acy(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
 n=A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"PV Atual",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,k,B.bv,!1,new A.acz(j),n,r)
 k=A.b0(r,20,r)
 s=A.X(r,r,B.e,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r)
@@ -69909,7 +69911,7 @@ r.r=r.w=r.z=r.Q=r.y=r.x=0
 A.pV(new A.acW(r,s.c,s.d),s.b,t.z)},
 $S:2}
 A.acW.prototype={
-$1(a){var s,r=null,q="columbiaserialmediumregular",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova SAN",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acO(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
+$1(a){var s,r=null,q="Gelio Fasolada",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova SAN",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acO(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
 n=A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"SAN Atual",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,k,B.bv,!1,new A.acP(j),n,r)
 k=A.b0(r,20,r)
 s=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
@@ -70071,7 +70073,7 @@ r.r=r.w=r.z=r.Q=r.y=r.x=0
 A.pV(new A.acT(r,s.c,s.d),s.b,t.z)},
 $S:2}
 A.acT.prototype={
-$1(a){var s,r=null,q="columbiaserialmediumregular",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PE",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acu(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
+$1(a){var s,r=null,q="Gelio Fasolada",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PE",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acu(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
 n=A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"PE Atual",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,k,B.bv,!1,new A.acv(j),n,r)
 k=A.b0(r,20,r)
 s=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
@@ -70381,7 +70383,7 @@ return new A.kv(A.co(r,q),A.dp(A.co(s.bn(0,"usersUidList"),q),!0,t.bD),A.co(s.bn
 gBU(){var s=this.b.ed(0,this.a).rq()
 return new A.cf(this.ga01(),s,s.$ti.j("cf<b7.T,kv*>"))}}
 A.qp.prototype={
-G(a,b){var s="columbiaserialmediumregular",r=null
+G(a,b){var s="Gelio Fasolada",r=null
 return A.zO(A.TW(r,B.l,20,B.l,A.aw(u.k,r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),80),B.l,A.Ke(!0,A.aX(r,A.hS(new A.cP(B.z5,A.cq(A.c([A.ZY("lib/assets/images/ORDEM LOGO.png",125),A.b0(r,70,r),new A.dy(1,B.ay,A.j4(A.aw("OBRIGADO POR UTILIZAR A FICHA VIRTUAL DE ORDEM PARANORMAL (FVOP)!",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,80,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),A.b0(r,30,r),new A.dy(1,B.ay,A.j4(A.aw("Acompanhe as Lives e o Discord para ficar por dentro de novas atualiza\xe7\xf5es!",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),new A.dy(3,B.ay,new A.rC(r),r),new A.dy(1,B.ay,A.j4(A.aw("Criador da Aplica\xe7\xe3o: Luziiano (@britaniarts)",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),new A.dy(1,B.ay,A.j4(A.aw("Apoio criativo: @ViksDesenha, @caulfieldfactor, @SkillThunder, @Sethwhyyy",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),new A.dy(1,B.ay,A.j4(A.aw("Agradecimentos especiais para todos que acompanharam e acompanham pela Twitch! Voc\xeas s\xe3o fodas <3",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),new A.dy(4,B.ay,new A.rC(r),r),new A.dy(1,B.ay,A.j4(A.aw("Este projeto est\xe1 sendo desenvolvido sem fins lucrativos! Apenas queremos ajudar a comunidade de RPG! Nos ajude divulgando o projeto utilizando a #FVOP!",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),new A.dy(1,B.ay,A.j4(A.aw("N\xe3o se esque\xe7a de acompanhar o projeto na twitch.tv/luziiano e de dar o seu feedback no Discord",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,40,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r),A.b0(r,300,r),new A.dy(1,B.ay,A.j4(A.aw("Apesar de ser sem fins lucrativos, estamos aceitando apoio financeiro. N\xe3o \xe9 f\xe1cil programar :O",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,5,r,r,r,r,!0,r,0,r,r,r,r,r,r),B.al,r),B.bB),r)],t.t),B.p,B.u,B.r),r),r,r),B.n,r,r,r,r,r,r,r,r,r,r,r),B.Z,!0),r,!1)}}
 A.ib.prototype={
 a8(){return new A.P5(null,null,B.o)}}
@@ -70409,7 +70411,7 @@ A.aeX.prototype={
 $1(a){return new A.my(new A.aeV(this.a),null)},
 $S:159}
 A.aeV.prototype={
-$2(a,b){var s,r,q,p,o=null,n="columbiaserialmediumregular",m=this.a,l=m.y?A.h5(A.aw("Girar",o,o,o,A.X(o,o,B.e,o,o,o,o,o,n,o,o,25,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.l,new A.aeR(m,b),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l):A.yA(o,o,0),k=t.t
+$2(a,b){var s,r,q,p,o=null,n="Gelio Fasolada",m=this.a,l=m.y?A.h5(A.aw("Girar",o,o,o,A.X(o,o,B.e,o,o,o,o,o,n,o,o,25,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),B.l,new A.aeR(m,b),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l):A.yA(o,o,0),k=t.t
 l=A.c([l],k)
 s=A.cq(A.c([A.bq(A.c([A.aw("Rolando Multiplos ("+m.a.d+")",o,o,o,A.X(o,o,B.e,o,o,o,o,o,n,o,o,25,o,B.aR,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.dz(!1,o,!0,A.dL(B.bI,B.e,28),o,!0,o,o,o,o,o,o,o,o,o,new A.aeS(m,a),o,o,o)],k),B.p,B.au,B.r),A.nx(B.e,o)],k),B.p,B.u,B.bp)
 if(m.y){r=A.X(o,o,B.e,o,o,o,o,o,n,o,o,15,o,o,o,o,!0,o,o,o,o,o,o,o,o)
@@ -70451,7 +70453,7 @@ s.r=A.akA().abi(s.a.d)
 A.pV(new A.aeW(s),this.b,t.z)},
 $S:2}
 A.aeW.prototype={
-$1(a){var s=null,r="columbiaserialmediumregular",q=this.a,p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Rolando Dado ("+q.a.d+")",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,25,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.dz(!1,s,!0,A.dL(B.bI,B.e,28),s,!0,s,s,s,s,s,s,s,s,s,new A.aeU(a),s,s,s)],p),B.p,B.au,B.r),A.nx(B.e,s)],p),B.p,B.u,B.r)
+$1(a){var s=null,r="Gelio Fasolada",q=this.a,p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Rolando Dado ("+q.a.d+")",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,25,s,B.aR,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.dz(!1,s,!0,A.dL(B.bI,B.e,28),s,!0,s,s,s,s,s,s,s,s,s,new A.aeU(a),s,s,s)],p),B.p,B.au,B.r),A.nx(B.e,s)],p),B.p,B.u,B.r)
 return A.n5(s,B.l,A.aX(s,A.hS(A.cq(A.c([A.aw(""+q.r,s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,60,s,s,s,s,!0,s,0,s,s,s,s,s,s),s,s),A.aw("Resultado",s,s,s,A.X(s,s,B.e,s,s,s,s,s,r,s,s,50,s,s,s,s,!0,s,0,s,s,s,s,s,s),s,s)],p),B.p,B.u,B.r),s,s),B.n,s,s,s,s,150,s,s,s,s,s,450),new A.bh(B.O,new A.a3(B.e,1,B.m)),o)},
 $S:39}
 A.aeU.prototype={
@@ -70510,7 +70512,7 @@ A.aff.prototype={
 $1(a){return new A.my(new A.afe(this.a),null)},
 $S:159}
 A.afe.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k="columbiaserialmediumregular",j=null,i=this.a
+$2(a,b){var s,r,q,p,o,n,m,l,k="Gelio Fasolada",j=null,i=this.a
 if(i.y){s=A.aw("Rolar com desvantagem?",j,j,j,A.X(j,j,B.e,j,j,j,j,j,k,j,j,15,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 r=A.U(255,255,255,255)
 q=t.t
@@ -70661,7 +70663,7 @@ return A.anS([n,i,s,r,o][l.d],q)}}
 A.oc.prototype={
 a8(){return new A.Ox(B.o)}}
 A.Ox.prototype={
-G(a,b){var s="columbiaserialmediumregular",r=null,q=A.aw(u.k,r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),p=A.b0(r,r,20),o=A.tu(B.cj,r,r,r,r,r,r,r,new A.J(50,30),r,B.Z,r,r,r,r,r,r,r),n=t.t
+G(a,b){var s="Gelio Fasolada",r=null,q=A.aw(u.k,r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),p=A.b0(r,r,20),o=A.tu(B.cj,r,r,r,r,r,r,r,new A.J(50,30),r,B.Z,r,r,r,r,r,r,r),n=t.t
 return A.zO(A.TW(A.c([p,A.Ay(A.bq(A.c([A.aw("Sair",r,r,r,A.X(r,r,B.e,r,r,r,r,r,s,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.b0(r,r,20)],n),B.p,B.u,B.r),new A.ae_(),o)],n),B.l,20,B.l,q,80),r,A.aX(r,A.hS(A.aA5(B.e,50),r,r),B.n,B.l,r,r,r,r,r,r,r,r,r,r),r,!1)}}
 A.ae_.prototype={
 $0(){var s=0,r=A.T(t.P)
